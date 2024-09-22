@@ -259,6 +259,7 @@ body, main {
         justify-content: center;
         align-items: center;
         font-size: 12px; /* Tamanho da fonte do rodapé */
+        height: 350px;
       }
 
       .text-footer p {
