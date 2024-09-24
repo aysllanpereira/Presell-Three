@@ -31,7 +31,11 @@ body, main {
 }
 
 .titles h1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
     color: red;
+    font-size: 1.8em;
 }
 
 .text-content {
