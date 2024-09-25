@@ -34,8 +34,11 @@ body, main {
     display: flex;
     justify-content: center;
     align-items: center;
-    color: red;
-    font-size: 1.8em;
+    font-size: 1.6em;
+}
+
+strong {
+  color: red;
 }
 
 .text-content {
@@ -191,7 +194,7 @@ body, main {
     }
 
     .titles h1 {
-      font-size: 1.5em; /* Tamanho do título menor */
+      font-size: 1.3em; /* Tamanho do título menor */
     }
     
     .text-content,
@@ -226,7 +229,7 @@ body, main {
     }
 
     .titles h1 {
-        font-size: 1em; /* Tamanho do título menor */
+        font-size: 0.8em; /* Tamanho do título menor */
       }
       
       .text-content,
