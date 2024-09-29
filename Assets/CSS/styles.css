@@ -225,11 +225,12 @@ strong {
 @media (max-width: 480px) {
 
     .content {
-        width: 90%;
+        width: 95%;
     }
 
-    .titles h1 {
-        font-size: 0.8em; /* Tamanho do título menor */
+    .titles p {
+        font-size: 16.5px; /* Tamanho do título menor */
+        font-weight: bold;
       }
       
       .text-content,
