@@ -187,14 +187,20 @@ strong {
 }
 
 /* responsividade */
+@media (min-width: 880px) {
+  .titles p {
+      font-size: 1.3em;
+  }
+}
+
 @media (max-width: 768px) {
 
     .content {
         width: 90%;
     }
 
-    .titles h1 {
-      font-size: 1.3em; /* Tamanho do título menor */
+    .titles p {
+      font-size: 1.2em; /* Tamanho do título menor */
     }
     
     .text-content,
